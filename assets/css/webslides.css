@@ -1075,22 +1075,23 @@ h1 span {
 /* -- h1,h2... Promo/Landings -- */
 .text-landing {
   letter-spacing: .4rem;
-  text-transform: uppercase; }
-  @media (min-width: 768px) {
-    .text-landing {
-      letter-spacing: 1.6rem; } }
+  text-transform: uppercase; 
+font-weight: 600 }
+  
 
 /* -- Subtitle (Before h1, h2) p.subtitle + h1/h2 */
 .text-subtitle {
-  letter-spacing: .2rem;
+  letter-spacing: .1rem;
   margin-bottom: 0;
-  text-transform: uppercase; }
+  text-transform: uppercase; 
+font-weight: bold }
   .text-subtitle p.text-subtitle {
     font-size: 1.6rem; }
     .text-subtitle p.text-subtitle svg {
       vertical-align: text-top; }
   .text-subtitle + p {
-    margin-top: 3.2rem; }
+    margin-top: 3.2rem; 
+}
 
 .text-uppercase {
   text-transform: uppercase; }
@@ -3290,7 +3291,7 @@ figure[class*='text-pull-'] {
 
 /* -- Text shadow  -- */
 .text-shadow {
-  text-shadow: 0 0 40px rgba(0, 0, 0, 0.5); }
+  text-shadow:2px 1px 2px black; }
 
 /* -- time, ampersands, prepositions (for, of...), symbols...
 [class*='card-'] time,

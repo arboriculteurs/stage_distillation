@@ -3,8 +3,9 @@
 
 h1 {
 font-size: 6rem;
-font-family: 'Permanent Marker', cursive;
-line-height: 6rem;}
+font-family: 'Concert One', cursive;
+line-height: 6rem;
+padding-bottom: 2rem}
 h2 {
 font-size: 4rem;
 font-weight: 500;

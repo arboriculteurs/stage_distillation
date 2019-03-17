@@ -2,12 +2,12 @@
 index: 210
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: La première passe
+sub-title: "du moût au litrain"
 image:
   file: "assets/images/premiere-passe02.jpg"
-  description: "Le verger-école"
-  author: A.A.L.E.
+  description: "La première passe"
+  author: Pierre Kessler
   author_link: 
 ---
 ### Une réalisation soutenue par les institutions ###   

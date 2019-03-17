@@ -1,8 +1,8 @@
 ---
 index: 320
 type_of_section: "fullimage"
-title: La culture en lasagne
-sub-title: mise en pratique par les élèves de Mme Schlemmer-Hoff
+title: Apéritif et déjeuner
+sub-title: Un buffet d'entrées préparées par notre partenaire, le restaurant <i>A l'arbre vert</i> de la Melch
 text:
    position: 9
    background: "dark"

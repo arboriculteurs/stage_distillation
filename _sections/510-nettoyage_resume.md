@@ -7,7 +7,7 @@ sub-title: "pour des activités pédagogiques de terrain"
 image:
   file: "assets/images/nettoyage02.jpg"
   description: "Le verger-école"
-  author: A.A.L.E.
+  author: Pierre Kessler
   author_link: 
 ---
 ### Une réalisation soutenue par les institutions ###   

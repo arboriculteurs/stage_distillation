@@ -7,7 +7,7 @@ sub-title: "pour une recherche de qualité"
 image:
   file: "assets/images/degustation02.jpg"
   description: "Le verger-école"
-  author: A.A.L.E.
+  author: Pierre Kessler
   author_link: 
 ---
 ### Une réalisation soutenue par les institutions ###   

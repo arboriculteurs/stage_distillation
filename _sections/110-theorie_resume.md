@@ -2,12 +2,12 @@
 index: 110
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: Première partie théorique
+sub-title: "rappel des concepts de base"
 image:
   file: "assets/images/theorie02.jpg"
-  description: "Le verger-école"
-  author: A.A.L.E.
+  description: "Première partie théorique"
+  author: Pierre Kessler
   author_link: 
 ---
 ### Une réalisation soutenue par les institutions ###   
