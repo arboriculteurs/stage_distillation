@@ -2,11 +2,11 @@
 index: 660
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: La bonne passe
+sub-title: "Retirer la tête et la queue"
 image:
   file: "assets/images/bonne-passe02.jpg"
-  description: "Le verger-école"
+  description: "La bonne passe"
   author: Pierre Kessler
   author_link: 
 ---

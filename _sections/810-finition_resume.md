@@ -2,11 +2,11 @@
 index: 810
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: La finition
+sub-title: "Corriger éventuellement goût et aspect, baisser le pourcentage d'alcool"
 image:
   file: "assets/images/finition02.jpg"
-  description: "Le verger-école"
+  description: "La finition"
   author: Pierre Kessler
   author_link: 
 ---

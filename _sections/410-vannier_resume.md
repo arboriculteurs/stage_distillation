@@ -2,11 +2,11 @@
 index: 410
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: Démonstration de vannerie
+sub-title: "Confection d'une protection en osier pour une bonbonne d'eau de vie"
 image:
   file: "assets/images/vannier02.jpg"
-  description: "Le verger-école"
+  description: "Démonstration de vannerie"
   author: Pierre Kessler
   author_link: 
 ---

@@ -2,11 +2,11 @@
 index: 510
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: Le nettoyage
+sub-title: "Entre les deux passes, une étape importante de la distillation"
 image:
   file: "assets/images/nettoyage02.jpg"
-  description: "Le verger-école"
+  description: "Le nettoyage"
   author: Pierre Kessler
   author_link: 
 ---

@@ -2,11 +2,11 @@
 index: 610
 type_of_section: "card"
 image_side: "right"
-title: Le verger-école
-sub-title: "pour des activités pédagogiques de terrain"
+title: Deuxième partie théorique
+sub-title: "Les choix du distillateur"
 image:
   file: "assets/images/theorie-am02.jpg"
-  description: "Le verger-école"
+  description: "Deuxième partie théorique"
   author: Pierre Kessler
   author_link: 
 ---
