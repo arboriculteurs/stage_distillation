@@ -11,27 +11,26 @@ image:
   author_link: "https://www.unsplash.com"
 ---
   <div class="wrap">
-
      <ul class="flexblock specs">
          <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Le formateur</h2>
-                  Monsieur Jacky Goetz
+                  Monsieur <b>Jacky Goetz</b>  
             </div>
           </li>
           <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Le vannier</h2>
-                  Monsieur Gérard Matter
+                  Monsieur <b>Gérard Matter</b>  
             </div>
           </li>
            <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>Les membres de l'AALE</h2>
-                  pour leurs interventions et tout spécialement le comité de l'association.
+                <h2>Les membres de l'AALE et le comité de l'association</h2>
+                  pour l'organisation de la journée.
             </div>
           </li>
     </ul>
@@ -55,7 +54,7 @@ image:
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Interview</h2>
-                 Les éléments sonores ont été enregistrés par Pierre Kessler.
+                 Les éléments sonores ont été enregistrés par <b>Pierre Kessler</b>.
             </div>
           </li>
         

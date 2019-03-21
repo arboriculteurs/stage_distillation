@@ -10,11 +10,10 @@ image:
   author: Pierre Kessler
   author_link: 
 ---
-### Une réalisation soutenue par les institutions ###   
+### Faire chanter les arômes ###   
 
-La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.  
-La plantation des arbres fruitiers a été financée pour moitié par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts *Trames Vertes et Bleues*.
-### 32 arbres et 1500 bulbes ###   
-Le verger-école est planté de 32 arbres fruitiers : les élèves ont mis la main à la pâte pour cette plantation. Le fleurissement est assuré par des massifs de fleurs à bulbes disposés au pied de chacun des fruitiers. Notre partenaire **Graines Hubert** a offert pour ce faire 1500 bulbes qui ont été récemment mis en terre.
+La distillation moderne diffère parfois assez sensiblement de celle que pratiquaient nos anciens. Finie la recherche de rendement, d'une quantité maximale d'alcool à produire, place au souci de la qualité optimale, du goût fruité et non altéré.
 
-Un rucher et un grand hôtel à insectes complètent l'installation et permettent de nombreuses observations et manipulations.
+On privilégie donc des alcools moins forts, vers 46% d'acool, servis chambrés et dans des verres à dégustation spécifiques. L'usage ancien de boire glacés des alcools très forts servait souvent à masquer les défauts de distillation...
+
+Ce qui permet de débattre longuement de la richesse des parfums et des arômes.

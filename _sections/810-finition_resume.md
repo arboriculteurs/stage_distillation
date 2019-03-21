@@ -10,11 +10,8 @@ image:
   author: Pierre Kessler
   author_link: 
 ---
-### Une réalisation soutenue par les institutions ###   
+### De l'alcool et de l'eau ###   
 
-La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.  
-La plantation des arbres fruitiers a été financée pour moitié par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts *Trames Vertes et Bleues*.
-### 32 arbres et 1500 bulbes ###   
-Le verger-école est planté de 32 arbres fruitiers : les élèves ont mis la main à la pâte pour cette plantation. Le fleurissement est assuré par des massifs de fleurs à bulbes disposés au pied de chacun des fruitiers. Notre partenaire **Graines Hubert** a offert pour ce faire 1500 bulbes qui ont été récemment mis en terre.
+Outre la correction de défauts de goût ou de limpidité, bien improbables si toutes les consignes données pendant ce stage ont été suivies, la finition va surtout consister à ajouter de l'eau à l'alcool pour obtenir une eau de vie agréable à consommer.  
 
-Un rucher et un grand hôtel à insectes complètent l'installation et permettent de nombreuses observations et manipulations.
+Ici, notre formateur ramène à 46% d'alcool une eau de vie de pommes distillée précédemment par l'un des participants. Combien d'eau ajouter pour arriver précisément au degré d'alcool désiré ? C'est affaire de tables, de formules et de mesures...

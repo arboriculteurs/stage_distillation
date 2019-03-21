@@ -10,11 +10,9 @@ image:
   author: Pierre Kessler
   author_link: 
 ---
-### Une réalisation soutenue par les institutions ###   
+### La recherche de qualité ###   
 
-La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.  
-La plantation des arbres fruitiers a été financée pour moitié par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts *Trames Vertes et Bleues*.
-### 32 arbres et 1500 bulbes ###   
-Le verger-école est planté de 32 arbres fruitiers : les élèves ont mis la main à la pâte pour cette plantation. Le fleurissement est assuré par des massifs de fleurs à bulbes disposés au pied de chacun des fruitiers. Notre partenaire **Graines Hubert** a offert pour ce faire 1500 bulbes qui ont été récemment mis en terre.
+Le distillat sortant de l'alambic lors de la **bonne passe** est l'objet de toutes les attentions. 
+Les différents verres numérotés visibles sur les photos vont permettre de déterminer les limites entre **tête**, **cœur** et **queue** pour obtenir la meilleure qualité possible d'eau de vie. 
 
-Un rucher et un grand hôtel à insectes complètent l'installation et permettent de nombreuses observations et manipulations.
+Au final, nous obtiendrons ici quelques 5 litres d'un alcool de coing titrant environ 72% d'alcool.
