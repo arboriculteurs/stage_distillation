@@ -16,15 +16,15 @@ image:
          <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>Les enseignantes</h2>
-                  du R.P.I. de Lichtenberg / Reipertswiller
+                <h2>Le formateur</h2>
+                  Monsieur Jacky Goetz
             </div>
           </li>
           <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>La classe 34</h2>
-                  d'Ingwiller et Menchhoffen pour l'opération <i>nichoirs</i>
+                <h2>Le vannier</h2>
+                  Monsieur Gérard Matter
             </div>
           </li>
            <li>
@@ -41,28 +41,21 @@ image:
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Photos de reportage</h2>
-                  Sauf avis contraire, toutes les photos des animations sont signées <b>Yves Klein</b>, président de l'A.A.L.E.
+                  Les photos des animations sont signées <b>Pierre Kessler</b>, webmestre de l'A.A.L.E.
             </div>
           </li>
           <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Photos d'illustration</h2>
-                  Ces images de qualité en haute définition sont fournies par le site partage de photos <b>Unsplash</b>.
+                  Ces images de qualité sont fournies par le site de photos <b>Unsplash</b>.
             </div>
           </li>
           <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Interview</h2>
-                 Les éléments sonores sont mis à disposition par <b>EST FM</b> - interview réalisée en janvier 2018.
-            </div>
-          </li>
-         <li>
-            <div>
-              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>Graines et bulbes</h2>
-                  Pour le verger-école et le jardin scolaire, <b>Graines Hubert</b> a mis a disposition bulbes et semences.
+                 Les éléments sonores ont été enregistrés par Pierre Kessler.
             </div>
           </li>
         
