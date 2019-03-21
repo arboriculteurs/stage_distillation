@@ -12,7 +12,7 @@ image:
 ---
 ### La distillation en pratique ###   
 
-La distillation durant ce stage est conduite par les membres de l'A.A.L.E, MM. **René Arnold**, **Laurent Hetzel** et **Jean-Philippe Niederst**.
+La distillation durant ce stage est conduite par les membres de l'A.A.L.E, MM. **René Arnold**, **Laurent Hetzel** et **Florian Allenbach**.
 
 Cette distillation se fait avec l'alambic des arboriculteurs de Lichtenberg, un modèle mobile, à double passe et chauffé au bois.
 L'animateur de la journée, M. **Jacky Goetz**. Il nous précise ce qui va être <span class="soundcite" data-url="assets/sons/jacky_coings.mp3" data-start="0" data-end="110000" data-plays="1">distillé aujourd'hui</span>.
