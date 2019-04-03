@@ -2,11 +2,11 @@
 #
 title: Stage de distillation
 email: webmestre@arboriculteurs-lichtenberg.eu
-description: > # this means to ignore newlines until "baseurl:"
-  Un reportage sur les activités sur la formation donnée le 9 mars 2019 à Lichtenberg.
+lang: fr-FR
+description: 
+  Un reportage sur la formation à la distillation artisanale donnée le 9/3/2019 à Lichtenberg : préparation des fruits, première et deuxième passe de distillation, finition des eaux de vie, dégustation, règlementation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arboriculteurs-lichtenberg.eu" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  jekyll
 nav_direction: vertical # vertical, horizontal 
 image_dir: "assets/images"
@@ -18,6 +18,7 @@ collections:
 markdown: kramdown
 plugins:
   - github-pages
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
