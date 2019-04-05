@@ -3,7 +3,7 @@ index: 0
 ---
 
 <section class="slide-center">   <!-- slide 01 -->
-    <span class="background" style="background-image:url('assets/images/titre.jpg')"></span>
+    <span class="background bg-apple" style="background-image:url('assets/images/titre.jpg')"></span>
     <!--.wrap = container (width: 90%) -->
     <div class="wrap aligncenter text-shadow"  style="color:#fff">
         <h1 class="text-data">Initiation à la distillation</h1>         
